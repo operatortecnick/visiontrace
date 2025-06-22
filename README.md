@@ -66,6 +66,18 @@ Acesse no navegador:
 http://localhost:8501
 ```
 
+### 6️⃣ Refatore seus scripts facilmente
+
+Você pode utilizar a ferramenta `refactor_gui.py` para converter arquivos `*.py`
+em versões assíncronas (`*.task.py`). Basta executá-la e escolher a pasta
+desejada para a refatoração.
+
+```bash
+python refactor_gui.py
+```
+
+Uma janela será exibida permitindo selecionar o diretório de trabalho.
+
 ---
 
 ## 📜 Logs
